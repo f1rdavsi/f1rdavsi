@@ -22,5 +22,3 @@
   <img " src="github-snake.svg" />
 </picture>
 
-### <img src="https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm" width="100"> Languages & Tools
-
