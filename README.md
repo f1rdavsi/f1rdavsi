@@ -22,7 +22,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img " src="github-snake.svg" />
 </picture>
 
 ### <img src="[https://media1.giphy.com/media/aoydQ5HRJUAbm/200w.webp?cid=ecf05e47o0tp0ekam8nvvne2ishova5durnotvi6fz1vacq5&rid=200w.webp&ct=s](https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm)" width="100"> Languages & Tools
