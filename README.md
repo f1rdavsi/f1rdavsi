@@ -12,10 +12,7 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+ 
 </picture>
 
 
@@ -25,5 +22,5 @@
   <img " src="github-snake.svg" />
 </picture>
 
-### <img src="[https://media1.giphy.com/media/aoydQ5HRJUAbm/200w.webp?cid=ecf05e47o0tp0ekam8nvvne2ishova5durnotvi6fz1vacq5&rid=200w.webp&ct=s](https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm)" width="100"> Languages & Tools
+### <img src="https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm" width="100"> Languages & Tools
 
