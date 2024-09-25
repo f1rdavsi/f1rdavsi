@@ -24,3 +24,4 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   
 </picture>
+<img align="left" src="https://raw.githubusercontent.com/sinbadxiii/sinbadxiii/master/angry.gif" width="150px" />
