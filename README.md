@@ -23,5 +23,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sinbadxiii&theme=default&show_icons=true&count_private=true" />
 </picture>
 <img align="left" src="https://raw.githubusercontent.com/sinbadxiii/sinbadxiii/master/angry.gif" width="150px" />
