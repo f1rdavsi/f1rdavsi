@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;My+name+is+Firdavsjon+Fozilov!;Back-end+developer!;BTW,+i+use+Arch.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sinbadxiii&theme=default&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=f1rdavsi&theme=default&show_icons=true&count_private=true" />
 </picture>
 <img align="left" src="https://raw.githubusercontent.com/sinbadxiii/sinbadxiii/master/angry.gif" width="150px" />
 
