@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=f1rdavsi&theme=default&show_icons=true&count_private=true" />
 </picture>
 <img align="left" src="https://raw.githubusercontent.com/sinbadxiii/sinbadxiii/master/angry.gif" width="150px" />
-![](https://komarev.com/ghpvc/?username=f1rdavsi)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
