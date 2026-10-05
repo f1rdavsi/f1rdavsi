@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Firdavs%20Fozilov&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%40%20Alif%20Bank&Alif Tech&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Firdavs%20Fozilov&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%40%20Alif%Tech&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://t.me/f1rdavsi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/f1rdavsi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
