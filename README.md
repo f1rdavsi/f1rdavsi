@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Firdavs%20Fozilov&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%40%20Alif%20Bank&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Firdavs%20Fozilov&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%40%20Alif%20Bank&Alif Tech&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://t.me/f1rdavsi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/f1rdavsi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/f0z110v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/firdavsjon.fozilov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;TypeScript+%7C+Vue+%7C+Python;Based+in+Dushanbe%2C+Tajikistan+%F0%9F%87%B9%F0%9F%87%AF" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Vite;Based+in+Dushanbe%2C+Tajikistan+%F0%9F%87%B9%F0%9F%87%AF" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-- 💼 Currently working at **Alif Bank**
+- 💼 Currently working at **Alif Technology**
 - 🌍 Based in **Dushanbe, Tajikistan**
 - 🚀 Been building projects around **web apps** and **space-tech experiments** (yes, NASA Space Apps Challenge!)
 - 🌱 Always learning something new in the JS/TS and Python ecosystem
