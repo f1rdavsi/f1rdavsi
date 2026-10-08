@@ -29,11 +29,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,vue,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,figma,html,css,cpp,git,github,arch,docker,postgres,obsidian,npm,yarn,postman,react,vim,vscode,vite,webstorm" />
 
 </div>
 
-> *Icons are based on the languages detected in your public repos. Add more (docker, figma, nodejs, etc.) by editing the `i=` list — full icon set at [skillicons.dev](https://skillicons.dev).*
 
 <br>
 
