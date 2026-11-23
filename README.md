@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Firdavs%20Fozilov&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%40%20Alif%Tech&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Firdavs%20Fozilov&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%40%20Alif%20Tech&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://t.me/f1rdavsi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/f1rdavsi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,8 +21,6 @@
 - 👯 Open to collaborating on interesting side projects
 - 📫 Reach me on [Telegram](https://t.me/f1rdavsi) or [LinkedIn](https://www.linkedin.com/in/f1rdavsi)
 
-> ✏️ *Tip: this section is a starting point — swap in your real focus areas, current learning goals, and fun facts to make it truly yours.*
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -32,7 +30,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,figma,html,css,cpp,git,github,arch,docker,postgres,obsidian,npm,yarn,postman,react,vim,vscode,vite,webstorm" />
 
 </div>
-
 
 <br>
 
@@ -87,8 +84,6 @@
 <img src="https://raw.githubusercontent.com/f1rdavsi/f1rdavsi/output/github-contribution-grid-snake.svg" />
 
 </div>
-
-> ⚙️ *This animation needs a tiny one-time setup — see the "snake" workflow file below.*
 
 <br>
 
